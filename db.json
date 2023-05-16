@@ -6,7 +6,55 @@
       "password": "teste@123"
     }
   ],
-  "informacoes": [],
-  "experiencias": [],
-  "portfolio": []
+  "informacoes": [
+    {
+      "foto": "https://github.com/andrezza5.png",
+      "nome": "Andrezza Marcilio",
+      "cargo": "Administradora",
+      "resumo": "Formada em Administração de Empresas, atuei por mais de 15 anos na área administrativo/financeiro e há 4 anos como empreendedora, onde aprendi uma nova visão de negócios, assim como a capacidade de tomada de decisões, e isso me tornou uma pessoa diferenciada ao enxergar nos desafios as oportunidades de desenvolvimento constante. Atualmente estou trilhando o caminho para transição de carreira através de nova especialização na área da tecnologia como desenvolvedora.",
+      "id": 1
+    }  
+  ],
+  "experiencias": [
+    {
+      "titulo": "Assistente administrativo/financeiro",
+      "descricao": "Administrativo/Financeiro. ",
+      "tipo": "profissional",
+      "anoInicio": "2004",
+      "anoFim": 2012,
+      "id": 2
+    },
+    {
+      "titulo": "Gerente Financeira ",
+      "descricao": "Administrativo/Financeiro. ",
+      "tipo": "profissional",
+      "anoInicio": 2013,
+      "anoFim": "2018",
+      "id": 3
+    },
+    {
+      "titulo": "Empreendedora ",
+      "descricao": "Empreendedora",
+      "tipo": "profissional",
+      "anoInicio": 2018,
+      "anoFim": "2022",
+      "id": 3
+    },
+    {
+      "titulo": "Administração de Empresas ",
+      "descricao": "Formação",
+      "tipo": "academico",
+      "anoInicio": 2004,
+      "anoFim": "2007",
+      "id": 3
+    }
+  ],
+  "portfolio": [
+    {
+      "link": "https://andrezza5.github.io/Projeto-site-Desbrave/",
+      "image": "https://img.freepik.com/vetores-gratis/mala-de-viagem-de-estilo-antigo-com-adesivos-de-viagens_1284-7141.jpg?w=2000",
+      "title": "Portfólio 1",
+      "id": 4
+    }
+  ]
 }
